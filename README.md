@@ -1,2 +1,2 @@
 # PythonCodersClub-TBS-SCT
-![Alt Text](img/Python Coders Club .jpg)
+![Alt Text](../master/img/pcc.jpg)
