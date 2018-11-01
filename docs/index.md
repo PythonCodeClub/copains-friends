@@ -4,4 +4,5 @@ Today, we worked on attempting to make a mailing list text information. The idea
 We focused on using a python package called Pandas to help with data analysis, with importing the text string as csv, then parsing it.
 
 [Halloween Post](posts/2018-10-31-Halloween.md)
-[About us](./about.md)
+[About us](docs/about.md)
+[Links](docs/useful/link.md)
