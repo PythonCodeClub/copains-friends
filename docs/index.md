@@ -3,9 +3,9 @@ layout: default
 ---
 # Testing out Resources Link
 
-
+[Doodle Poll](https://doodle.com/poll/yvgbma84mrvuzrud)
 [Halloween Post](posts/2018-10-31-Halloween.md)
-[Links](docs/useful/link.md)
+[Links](useful/link.md)
 [About us](docs/about.md)
 [Link to another page](./another-page.html).
 [GC Collab Messenger](https://message.gccollab.ca/channel/tbs-sct-pcc)
@@ -16,27 +16,33 @@ layout: default
 
 ### Week 1, Meet up and Introductions who are we?
 
-Week 1 Introduction was on the 6th floor. To generate interest, and it was fun. We did simple discussion of the simple environment. There are a lot of barries of entry. Discussion points:
+Introduction was on the 6th floor. To generate interest, and it was fun. We did simple discussion of the simple environment. There are a lot of barries of entry.
+* Discussion points:
 *   Anaconda
 *   Python
 *   How to get this stuff installed?
 *   Git, What is it?
 
-### Week 2, 
+### Week 2, Discussion about Pandas, Requests, and BS4 for the use case of Web Scraping. 
 
-Week 2 Python and Web Scraping on the 2nd floor. We had a smaller group. We wanted to discuss Python and how to extract data off websites. A lot of interest, but no environment set-up. Discussion points:
+_Python_ and **Web Scraping** on the 2nd floor. We had a smaller group. We wanted to discuss Python and how to `extract` data off websites. A lot of interest, but no environment set-up. 
+* Discussion Points
 *   How to make faster process?
 *   More demo time
 *   Explain more thoroughly.
 
-### Week 3, Mailing List creationg using Pandas.
+### Week 3, Mailing List creating using Pandas.
 
-Today, we worked on attempting to make a mailing list text information. The idea was to gather information from the e-mail list that was generated from outlook.
+We worked on attempting to make a mailing list text information. The idea was to gather information from the e-mail list that was generated from outlook.
 We focused on using a python package called Pandas to help with data analysis, with importing the text string as csv, then parsing it.
+* Discussion points:
+*   Quickly browsed data frames
+*   How to split text strings to seperate information
+*   Required review of data types and information types for Python.
 
 
 
-## Header 2
+## Week 4, TBD. Doodle Poll
 
 > This is a blockquote following a header.
 >

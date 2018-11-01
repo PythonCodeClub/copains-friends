@@ -1,3 +1,9 @@
+---
+layout: default
+permalink: /info/
+title: Information and Useful Link
+---
+
 # Information and links
 [link] https://colab.research.google.com/notebooks/welcome.ipynb
 [link]
