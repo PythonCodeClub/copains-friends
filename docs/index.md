@@ -10,8 +10,9 @@ layout: default
 [Link to another page](./another-page.html).
 [GC Collab Messenger](https://message.gccollab.ca/channel/tbs-sct-pcc)
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PythonCodeClub/jupyter/master)
 > The below link is information to host jupyter notebook to provide ease of access and reduce barrier of entry
-[Binder Notebook](https://mybinder.org/v2/gh/rsaavy/PythonCodersClub-TBS-SCT/master)
+[Binder Notebook](https://mybinder.org/v2/gh/PythonCodeClub/jupyter/master)
 
 
 ### Week 1, Meet up and Introductions who are we?
@@ -39,7 +40,7 @@ We focused on using a python package called Pandas to help with data analysis, w
 *   Quickly browsed data frames
 *   How to split text strings to seperate information
 *   Required review of data types and information types for Python.
-
+*   Made a doodle poll to get feedback and what time works best... It seem it will be Tuesday.
 
 
 ## Week 4, TBD. Doodle Poll
