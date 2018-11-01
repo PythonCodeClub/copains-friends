@@ -1,7 +1,7 @@
 # Python Code Club-TBS-SCT
 This will be where we will store information about our data, jupyter notebooks, and source code, and other material.
 ![Alt Text](../master/img/pcc.jpg)
-# Website Maintainer
+# Maintainer
 Roy Angelo Saavedra, Data Analyst
 
 613-710-2253 | 613-716-5977
