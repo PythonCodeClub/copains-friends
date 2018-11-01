@@ -1,3 +1,3 @@
 # Header 1
 Hello does this work 
-![Alt text](../master/img/pcc.jpg)
+![Alt text](../img/pcc.jpg)
