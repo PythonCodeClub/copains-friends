@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
+[Halloween Post](posts/2018-10-31-Halloween.md)
+
+[Links](docs/useful/link.md)
+
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
+[About us](docs/about.md)
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
@@ -129,6 +133,3 @@ The final element.
 Today, we worked on attempting to make a mailing list text information. The idea was to gather information from the e-mail list that was generated from outlook.
 We focused on using a python package called Pandas to help with data analysis, with importing the text string as csv, then parsing it.
 
-[Halloween Post](posts/2018-10-31-Halloween.md)
-[About us](docs/about.md)
-[Links](docs/useful/link.md)
