@@ -53,11 +53,14 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+###### Users
 
-| head1        | head two          | three |
+[Test1](PythonCodeClub-TBS-SCT/data/mail_list.csv)
+[Test2](https://github.com/rsaavy/PythonCodeClub-TBS-SCT/blob/master/data/mail_list.csv)
+
+| User         | E-mail             | Team  |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+|      Roy     | Roy  swedish fish | Info  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
