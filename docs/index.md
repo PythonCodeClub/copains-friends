@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-# Testing out Resources Link
+# Work in Progress website for PCC-TBS-SCT
+
+This website is still a work in progress and will need to be maintained. If any concerns please contact Roy. 
 
 [Doodle Poll](https://doodle.com/poll/yvgbma84mrvuzrud)
 [Halloween Post](posts/2018-10-31-Halloween.md)
@@ -45,7 +47,17 @@ We focused on using a python package called Pandas to help with data analysis, w
 
 ## Week 4, TBD. Doodle Poll
 
-> This is a blockquote following a header.
+
+###### Users
+
+
+
+| User         | E-mail                            | Team  |
+|:-------------|:----------------------------------|:------|
+|      Roy     | Roy.Angelo.Saavedra@tbs-sct.gc.ca | IMTD  |
+
+
+<!-- > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
@@ -86,17 +98,6 @@ end
 
 
 
-
-###### Users
-
-
-
-| User         | E-mail            | Team  |
-|:-------------|:------------------|:------|
-|      Roy     | Roy.Angelo.Saaveh | Info  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
 
 ### There's a horizontal rule below this.
 
@@ -160,5 +161,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
 

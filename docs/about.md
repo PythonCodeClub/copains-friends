@@ -20,7 +20,11 @@ Reasons:
 
 ## What now?
 
-We now will have the Python Code Club be a lunch hour session in which this Pilot Project can be used a community, and collaborative space to speak with other Data Scientists
+We now will have the Python Code Club be a lunch hour session in which this Pilot Project can be used a community, and collaborative space to speak with other Data Scientists and learn from them.
+
+I will try to have a detailed outline, but on top of my work. I will most likely do ad-hoc explanations and get the feel from the rest of the crowd. 
+
+
 
 
 [back](./)
