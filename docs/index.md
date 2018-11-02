@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Work in Progress website for PCC-TBS-SCT
+# Work in Progress website for Python Code Club with Friends!
 
 This website is still a work in progress and will need to be maintained. If any concerns please contact Roy. 
 
@@ -10,7 +10,7 @@ This website is still a work in progress and will need to be maintained. If any 
 [Links](useful/link.md)
 [About us](./about.md)
 [Link to another page](./another-page.html).
-[GC Collab Messenger](https://message.gccollab.ca/channel/tbs-sct-pcc)
+
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PythonCodeClub/jupyter/master)
 > The below link is information to host jupyter notebook to provide ease of access and reduce barrier of entry
@@ -52,9 +52,9 @@ We focused on using a python package called Pandas to help with data analysis, w
 
 
 
-| User         | E-mail                            | Team  |
-|:-------------|:----------------------------------|:------|
-|      Roy     | Roy.Angelo.Saavedra@tbs-sct.gc.ca | IMTD  |
+| User         | E-mail                            | Emotion  |
+|:-------------|:----------------------------------|:---------|
+|      Roy     | Roy.Angelo.Saavedra@tbs-sct.gc.ca | Happy    |
 
 
 <!-- > This is a blockquote following a header.
