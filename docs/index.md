@@ -8,7 +8,7 @@ This website is still a work in progress and will need to be maintained. If any 
 [Doodle Poll](https://doodle.com/poll/yvgbma84mrvuzrud)
 [Halloween Post](posts/2018-10-31-Halloween.md)
 [Links](useful/link.md)
-[About us](docs/about.md)
+[About us](./about.md)
 [Link to another page](./another-page.html).
 [GC Collab Messenger](https://message.gccollab.ca/channel/tbs-sct-pcc)
 
