@@ -1,7 +1,7 @@
 
 BSD 3-Clause License
 
-Copyright (c) 2017, amianthoidal
+Copyright (c) 2017, rsaavy
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
