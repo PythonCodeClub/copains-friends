@@ -3,4 +3,4 @@ This will be where we will store information about our data, jupyter notebooks, 
 [shiny](https://github.com/molliemckillop/wordcloud_RShiny)
 # Maintainer
 Roy Saavedra
-roy@memair.com
+roya.saavedra@gmail.com
