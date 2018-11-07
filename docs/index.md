@@ -9,8 +9,6 @@ This website is still a work in progress and will need to be maintained. If any 
 [Halloween Post](posts/2018-10-31-Halloween.md)
 [Links](useful/link.md)
 [About us](./about.md)
-[Link to another page](./another-page.html).
-
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/PythonCodeClub/jupyter/master)
 > The below link is information to host jupyter notebook to provide ease of access and reduce barrier of entry
@@ -46,7 +44,7 @@ We focused on using a python package called Pandas to help with data analysis, w
 
 
 ## Week 4, TBD. Doodle Poll
-
+We are working on attempting to set up the formal process. In the mean time, I will
 
 ###### Users
 
@@ -54,7 +52,7 @@ We focused on using a python package called Pandas to help with data analysis, w
 
 | User         | E-mail                            | Emotion  |
 |:-------------|:----------------------------------|:---------|
-|      Roy     | Roy.Angelo.Saavedra@tbs-sct.gc.ca | Happy    |
+|      Roy     | roya.saavedra@gmail.com           | Happy    |
 
 
 <!-- > This is a blockquote following a header.
