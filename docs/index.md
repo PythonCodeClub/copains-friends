@@ -3,10 +3,9 @@ layout: default
 ---
 # Work in Progress website for Python Code Club with Friends!
 
-This website is still a work in progress and will need to be maintained. If any concerns please contact Roy. 
+This website is still a work in progress and will need to be maintained. If any concerns please contact Roy.
 
-[Doodle Poll](https://doodle.com/poll/yvgbma84mrvuzrud)
-[Halloween Post](posts/2018-10-31-Halloween.md)
+[Post](posts/2018-10-31-Halloween.md)
 [Links](useful/link.md)
 [About us](./about.md)
 
@@ -24,9 +23,9 @@ Introduction was on the 6th floor. To generate interest, and it was fun. We did 
 *   How to get this stuff installed?
 *   Git, What is it?
 
-### Week 2, Discussion about Pandas, Requests, and BS4 for the use case of Web Scraping. 
+### Week 2, Discussion about Pandas, Requests, and BS4 for the use case of Web Scraping.
 
-_Python_ and **Web Scraping** on the 2nd floor. We had a smaller group. We wanted to discuss Python and how to `extract` data off websites. A lot of interest, but no environment set-up. 
+_Python_ and **Web Scraping** on the 2nd floor. We had a smaller group. We wanted to discuss Python and how to `extract` data off websites. A lot of interest, but no environment set-up.
 * Discussion Points
 *   How to make faster process?
 *   More demo time
@@ -160,4 +159,3 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ``` -->
-
