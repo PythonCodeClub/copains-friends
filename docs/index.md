@@ -14,6 +14,8 @@ This website is still a work in progress and will need to be maintained. If any 
 [Binder Notebook](https://mybinder.org/v2/gh/PythonCodeClub/jupyter/master)
 
 
+# 2018 September to November 2018   
+
 ### Week 1, Meet up and Introductions who are we?
 
 Introduction was on the 6th floor. To generate interest, and it was fun. We did simple discussion of the simple environment. There are a lot of barries of entry.
@@ -41,9 +43,20 @@ We focused on using a python package called Pandas to help with data analysis, w
 *   Required review of data types and information types for Python.
 *   Made a doodle poll to get feedback and what time works best... It seem it will be Tuesday.
 
+# 2019 May 27 to July 8
 
-## Week 4, TBD. Doodle Poll
-We are working on attempting to set up the formal process. In the mean time, I will
+### Week 0, Transition to Python - May 27 2019
+
+[Python Workshop](https://github.com/wardi/python_iw_2019/blob/master/python_iw_2019_pt_0.ipynb)
+
+We currently did a discussion
+
+### Week 1, Exercise: A simple python script, using interpreter June 3rd
+
+[Python Workshop](https://github.com/wardi/python_iw_2019/blob/master/python_iw_2019_pt_1.ipynb)
+
+
+
 
 ###### Users
 
@@ -52,7 +65,17 @@ We are working on attempting to set up the formal process. In the mean time, I w
 | User         | E-mail                            | Emotion  |
 |:-------------|:----------------------------------|:---------|
 |      Roy     | roya.saavedra@gmail.com           | Happy    |
-
+|      Ian Ward     | Ian.ward@tbs-sct.gc.ca        |     |
+|      Roy     | roya.saavedra@gmail.com           | Happy    |
+|      Roy     | roya.saavedra@gmail.com           | Happy    |
+|      Roy     | roya.saavedra@gmail.com           | Happy    |
+|      Roy     | roya.saavedra@gmail.com           | Happy    |
+|      Roy     | roya.saavedra@gmail.com           | Happy    |
+|      Roy     | roya.saavedra@gmail.com           | Happy    |
+|      Roy     | roya.saavedra@gmail.com           | Happy    |
+|      Roy     | roya.saavedra@gmail.com           | Happy    |
+|      Roy     | roya.saavedra@gmail.com           | Happy    |
+|      Roy     | roya.saavedra@gmail.com           | Happy    |
 
 <!-- > This is a blockquote following a header.
 >
