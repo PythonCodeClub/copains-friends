@@ -45,6 +45,8 @@ We focused on using a python package called Pandas to help with data analysis, w
 
 # 2019 May 27 to July 8
 
+## This following weeks will be production
+
 ### Week 0, Transition to Python - May 27 2019
 
 [Python Workshop](https://github.com/wardi/python_iw_2019/blob/master/python_iw_2019_pt_0.ipynb)
@@ -53,29 +55,59 @@ We currently did a discussion
 
 ### Week 1, Exercise: A simple python script, using interpreter June 3rd
 
-[Python Workshop](https://github.com/wardi/python_iw_2019/blob/master/python_iw_2019_pt_1.ipynb)
+* In this week we reviewed over how to execute python scripts.
+* How to start a python interpreter.
+* Two important differences between running a script and executing a code in a interpreter
+* differences between statements and expressions
+* modules and how they are imported and how its attributes are accessed.
+
+The link of the workshop can be accessed with the following [link](https://github.com/wardi/python_iw_2019/blob/master/python_iw_2019_pt_1.ipynb)
 
 
+### Week 2, strings
 
+* what type is used for single characters?
+* how do you prevent backslash characters in literal strings from being interpreted specially?
+* what keyword do you use to check for the existence of a substring?
+* what keyword is used to loop over strings character-by-character?
+* how do you extract the last three characters from a string?
+* how efficient is repeatedly appending to the end of a string?
 
+The link of the workshop can be accessed with the following [link](https://github.com/wardi/python_iw_2019/blob/master/python_iw_2019_pt_2.ipynb)
 ###### Users
 
 
 
 | User         | E-mail                            | Emotion  |
 |:-------------|:----------------------------------|:---------|
-|      Roy     | roya.saavedra@gmail.com           | Happy    |
-|      Ian Ward     | Ian.ward@tbs-sct.gc.ca        |     |
-|      Roy     | roya.saavedra@gmail.com           | Happy    |
-|      Roy     | roya.saavedra@gmail.com           | Happy    |
-|      Roy     | roya.saavedra@gmail.com           | Happy    |
-|      Roy     | roya.saavedra@gmail.com           | Happy    |
-|      Roy     | roya.saavedra@gmail.com           | Happy    |
-|      Roy     | roya.saavedra@gmail.com           | Happy    |
-|      Roy     | roya.saavedra@gmail.com           | Happy    |
-|      Roy     | roya.saavedra@gmail.com           | Happy    |
-|      Roy     | roya.saavedra@gmail.com           | Happy    |
-|      Roy     | roya.saavedra@gmail.com           | Happy    |
+|      Roy Angelo Saavedra  | roya.saavedra@gmail.com           | Happy    |
+|      Ian Ward             | Ian.ward@tbs-sct.gc.ca        |     |
+|        Rabia Sajjad   |         |     |
+|    Byron O'Byrne       |         |     |
+|     Sandra Wilson-Boudreau     |         |     |
+|     Jean-Francois Cote  |         |     |
+|     Stephen O'Neil     |         |     |
+|     Ralston Mckenzie     |         |     |
+|      Nicolas Germain    |         |     |
+|    Ross Beck-Mecneil      |         |     |
+|    Michael Yung      |         |     |
+|  Wan-chen Lee        |         |     |
+|    Victor Collins      |         |     |
+|      Evguenia Tsiroulnitchenko   |         |     |
+|      Joshua Dempsey    |         |     |
+|    Allan Pollock      |         |     |
+|     Krishna Tiwari     |         |     |
+|       Alexandre-Pierre Viens   |         |     |
+|      Michael Gager    |         |     |
+|      Mike Muirhead    |         |     |
+|      Rohit Samaroo    |         |     |
+|      Simon Livermore    |         |     |
+|      Andre Whittingham    |         |     |
+|    Stephane Rancourt      |         |     |
+|   Taewan Kang       |         |     |
+|          |         |     |
+|          |         |     |
+
 
 <!-- > This is a blockquote following a header.
 >
